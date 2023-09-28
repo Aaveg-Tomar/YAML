@@ -1,0 +1,26 @@
+"apple" : "Hello World How are you ?"
+1 : "You are the number one "
+
+---
+
+#Lists
+ - apple
+ - mango
+ - banana
+ - Apple
+
+---
+
+cities:
+  - New Delhi
+  - Gujrat
+  - Uttar Pradesh
+  - Mumbai
+
+---
+
+cities : [new delhi , mumbai , gujrat]
+
+---
+
+{mango : it is a fruit , age : 56}
